@@ -1,2 +1,2 @@
-# DekachoReport
-出簡調Excelツール
+# 出簡調Excelツール
+
